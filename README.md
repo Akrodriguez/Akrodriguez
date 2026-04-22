@@ -51,11 +51,4 @@
 
 ---
 
-## 🤝 Let's Connect
-
-* 💼 LinkedIn: www.linkedin.com/in/ansh-kumar-b9b3572a3
-* 📧 Email: anshkr11c@gmail.com
-
----
-
 ⭐ *Always learning, building, and improving.*
