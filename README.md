@@ -21,10 +21,10 @@ I build production-grade full-stack products and ship applied ML features end-to
 
 ## 🧭 About Me
 
-* 🎓 3rd-year B.Tech CSE student (2023–2027), focused on **full-stack engineering** and **applied machine learning**
+* 🎓 4th-year B.Tech CSE student (2023–2027), focused on **full-stack engineering** and **applied machine learning**
 * 🛠️ Built and shipped projects spanning computer vision, fraud detection, predictive modeling, and modern web development
-* 🧩 1415+ rated on LeetCode with consistent DSA practice — strong fundamentals in algorithms & problem solving
-* 📜 Google & Oracle certified in Generative AI
+* 🧩 Learning Cloud, DevOps, Docker and Kubernetes.
+* 📜 Oracle certified in Generative AI
 * 🎯 Targeting SWE Intern roles at Google, Meta, Amazon, Microsoft, Uber, Atlassian, and other product-focused companies
 
 ---
@@ -94,7 +94,7 @@ I build production-grade full-stack products and ship applied ML features end-to
 
 **Coding Profiles**
 
-* 🔸 LeetCode — **1415+** rating, active daily solver
+* 🔸 Codechef — **1254** rating, active solver
 * 🔸 GitHub — Full-stack & AI projects focused on production-grade engineering
 
 </td>
@@ -143,13 +143,14 @@ I'm actively looking for **SWE Internship (2026–27)** opportunities. Always op
 
 <div align="center">
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshkr11c@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshkumar07/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ansh_k_18/)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-website-eta-two.vercel.app/)
+
+</div>
 
 </div>
 
